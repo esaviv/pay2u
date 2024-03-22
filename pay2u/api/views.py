@@ -1,3 +1,15 @@
-from django.shortcuts import render
+from rest_framework import viewsets
 
-# Create your views here.
+
+class SubcriptionViewSet():
+    pass
+
+
+class CashbackViewSet():
+    pass
+
+
+#class PaymentViewSet():
+#    pass
+
+
